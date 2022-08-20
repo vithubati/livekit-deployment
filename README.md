@@ -1,2 +1,2 @@
 # livekit-deployment
-livekit k8s deployment 
+livekit k8s deployment manifest files
